@@ -1,0 +1,14 @@
+import os
+os.system('clear')
+print ("*"*20)
+print ("aidkhul albayanat")
+i="Ahmed33@gmail.com"
+b=123123
+
+m=str(input("Enter your e-mail:"))
+k=int(input("Type the password:"))
+if m==i and k==b:
+      print ("TM")
+else:
+   print ("xxx")
+print ("*"*20)
